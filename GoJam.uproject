@@ -17,6 +17,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "HAIPro",
+			"Enabled": true
+		},
+		{
+			"Name": "HStatsManager",
+			"Enabled": true
 		}
 	]
 }
